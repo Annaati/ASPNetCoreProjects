@@ -30,7 +30,14 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj": {
+                "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj"
+              },
+              "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj": {
+                "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,6 +64,126 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj",
+        "projectName": "IServices",
+        "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj",
+        "packagesPath": "C:\\Users\\AbdifatahAnnaat\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AbdifatahAnnaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\AbdifatahAnnaat\\.nuget\\packages\\",
+        "outputPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\AbdifatahAnnaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj": {
+                "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
