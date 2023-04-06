@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Models.dll": {}
+        }
+      },
+      "Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Models": "1.0.0",
+          "ServicesInterface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Services.dll": {}
+        }
+      },
+      "ServicesInterface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServicesInterface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServicesInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Models/1.0.0": {
+      "type": "project",
+      "path": "../Models/Models.csproj",
+      "msbuildProject": "../Models/Models.csproj"
+    },
+    "Services/1.0.0": {
+      "type": "project",
+      "path": "../Services/Services.csproj",
+      "msbuildProject": "../Services/Services.csproj"
+    },
+    "ServicesInterface/1.0.0": {
+      "type": "project",
+      "path": "../ServicesInterface/ServicesInterface.csproj",
+      "msbuildProject": "../ServicesInterface/ServicesInterface.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Models >= 1.0.0",
+      "Services >= 1.0.0",
+      "ServicesInterface >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\annaa\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\DIAssignMent-WeatherApp\\DIAssignMent-WeatherApp.csproj",
+      "projectName": "DIAssignMent-WeatherApp",
+      "projectPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\DIAssignMent-WeatherApp\\DIAssignMent-WeatherApp.csproj",
+      "packagesPath": "C:\\Users\\annaa\\.nuget\\packages\\",
+      "outputPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\DIAssignMent-WeatherApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\annaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\Models\\Models.csproj": {
+              "projectPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\Models\\Models.csproj"
+            },
+            "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\ServicesInterface\\ServicesInterface.csproj": {
+              "projectPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\ServicesInterface\\ServicesInterface.csproj"
+            },
+            "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\Services\\Services.csproj": {
+              "projectPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIAssignMent-WeatherApp\\Services\\Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
