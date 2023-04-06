@@ -1,0 +1,17 @@
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\bin\Debug\net6.0\Services.deps.json
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\bin\Debug\net6.0\Services.dll
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\bin\Debug\net6.0\Services.pdb
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\bin\Debug\net6.0\Models.dll
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\bin\Debug\net6.0\ServicesInterface.dll
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\bin\Debug\net6.0\Models.pdb
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\bin\Debug\net6.0\ServicesInterface.pdb
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.dll
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\refint\Services.dll
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\Services.pdb
+D:\Study\dotNET\ASPNetCoreProjects\DIAssignMent-WeatherApp\Services\obj\Debug\net6.0\ref\Services.dll
