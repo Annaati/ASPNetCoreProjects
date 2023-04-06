@@ -3,6 +3,7 @@ using Models;
 
 namespace DIAssignMent_WeatherApp.ViewComponents
 {
+
     public class CityViewComponent : ViewComponent
     {
         public async Task<IViewComponentResult> InvokeAsync(CityWeather city)
@@ -23,4 +24,6 @@ namespace DIAssignMent_WeatherApp.ViewComponents
             };
         }
     }
+
+
 }
