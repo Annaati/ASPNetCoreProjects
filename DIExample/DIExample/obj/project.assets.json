@@ -46,23 +46,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\AbdifatahAnnaat\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\annaa\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\DIExample\\DIExample.csproj",
+      "projectUniqueName": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\DIExample\\DIExample.csproj",
       "projectName": "DIExample",
-      "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\DIExample\\DIExample.csproj",
-      "packagesPath": "C:\\Users\\AbdifatahAnnaat\\.nuget\\packages\\",
-      "outputPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\DIExample\\obj\\",
+      "projectPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\DIExample\\DIExample.csproj",
+      "packagesPath": "C:\\Users\\annaa\\.nuget\\packages\\",
+      "outputPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\DIExample\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\AbdifatahAnnaat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\annaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -70,17 +66,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://www.nuget.org/api/v2/": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj": {
-              "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\IServices\\IServices.csproj"
+            "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\IServices\\IServices.csproj": {
+              "projectPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\IServices\\IServices.csproj"
             },
-            "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj": {
-              "projectPath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj"
+            "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\Services\\Services.csproj": {
+              "projectPath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\Services\\Services.csproj"
             }
           }
         }
@@ -113,7 +109,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yy53v/OfM4K92D1pGHfRVDBwhDQKeLkylW1BEfoiq/Covj747IdnkVUXzd8eTGp7G8MBe951NGyZ49eNvdJ4jg==",
+  "dgSpecHash": "KCgrEBnb/KYQkuhnGFTfs37XxQ710PU2Daf5izad2+bR0yV2IsHJW3hj4/c5nDJ1eVjSffvBh2/YD7oq8azMqA==",
   "success": true,
-  "projectFilePath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\Services\\Services.csproj",
+  "projectFilePath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\Services\\Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eFExw+6q2JjJGZAJxVGOnVoMooOTr/DPucRRWkgD2pYrINdVStddm3/HZKZK5jiIb0VdLOaZCmIAYkKZdKwu+Q==",
+  "dgSpecHash": "LLIk2CRKirzHOXFcGFOUhPCcQrBcu4qOBZnambBCrAWMtDUmIzYooZOGVT9nQc1JBOnJb0ciiv/xiHNpMO22OA==",
   "success": true,
-  "projectFilePath": "D:\\Study\\Programming\\dotNET\\ASP\\ASPNetCore\\DIExample\\DIExample\\DIExample.csproj",
+  "projectFilePath": "D:\\Study\\dotNET\\ASPNetCoreProjects\\DIExample\\DIExample\\DIExample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
