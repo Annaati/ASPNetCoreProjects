@@ -13,10 +13,11 @@ namespace DIExample.Controllers
             _countriesService = countriesService;
         }
 
+        [Route("/")]
         public IActionResult Index()
         {
             List<string> countries = _countriesService.GetCountries();
-            return View();
+            return View(countries);
         }
     }
 }
