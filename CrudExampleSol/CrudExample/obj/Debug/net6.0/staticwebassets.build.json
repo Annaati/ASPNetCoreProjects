@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "h2M/2zg/zLoEDPNHKhg3HT+uQGq8xqBflOUHcyW0yoE=",
+  "Source": "CrudExample",
+  "BasePath": "_content/CrudExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CrudExample\\wwwroot",
+      "Source": "CrudExample",
+      "ContentRoot": "D:\\Study\\Programming\\dotNET\\ASPNet\\ASPNetCoreProjects\\CrudExampleSol\\CrudExample\\wwwroot\\",
+      "BasePath": "_content/CrudExample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
